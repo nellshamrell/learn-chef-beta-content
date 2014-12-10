@@ -1,0 +1,7 @@
+<h1>hello from <%= node.name %> (ip: <%= node.ec2.public_ipv4 %>)</h1>
+Here's the entire list of web servers on this load balancer:
+<ul>
+  <% @machines.each do |machine| %>
+    <li><%= machine.name %> (ip: <%= machine.ec2.public_ipv4 %>)</li>
+  <% end %>
+</ul>
