@@ -236,7 +236,7 @@ Recipe: web::default
 
 Running handlers:
 Running handlers complete
-Chef Client finished, 3/4 resources updated in 3.093727363 seconds
+Chef Client finished, 4/4 resources updated in 3.093727363 seconds
 ```
 
 The output you see may vary depending on exactly which distribution you're running, but here you see that:

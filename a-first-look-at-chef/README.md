@@ -1,4 +1,4 @@
-a-first-look-at-chef
+A first look at Chef
 =======================
 
 We're looking for feedback on this [Learn Chef](http://learn.chef.io) tutorial that we plan to provide as a new user's first experience working with Chef.
@@ -12,6 +12,6 @@ Specifically, we're looking for feedback regarding:
 
 You can find the code that represents the end state of this tutorial in the `chef-repo` directory.
 
-You can provide feedback through the open pull request, or email me at [tpetchel@get.io](mailto:tpetchel@chef.io).
+You can provide feedback through the open pull request, or email me at [tpetchel@chef.io](mailto:tpetchel@chef.io).
 
 Thank you for your time and help. We hope you enjoy it!
