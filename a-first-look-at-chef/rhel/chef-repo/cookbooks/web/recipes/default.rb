@@ -8,5 +8,9 @@ template '/var/www/html/index.html' do
   source 'index.html.erb'
   variables({
     :machines => search(:node, 'tags:webserver')
-    })
-  end
+  })
+end
+
+service 'iptables' do
+  action :stop
+end

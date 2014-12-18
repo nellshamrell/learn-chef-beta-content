@@ -1,4 +1,4 @@
-require 'chef/provisioning'
+require 'chef/provisioning/aws_driver'
 with_driver 'aws'
 
 1.upto(3) do |n|
