@@ -29,13 +29,16 @@ We have you configure a system directly to get started quickly and learn the con
 Once you have a machine ready, ensure you have:
 
 * the [Chef Development Kit](http://downloads.chef.io/chef-dk/), or ChefDK, installed on your virtual machine (if your virtual machine doesn't have a graphical user interface, you can run `wget` to get the package listed on the [Red Hat Enterprise Linux download page](http://downloads.chef.io/chef-dk/redhat/#/), then install using `rpm`)
+ 
   ```bash
 $ wget https://opscode-omnibus-packages.s3.amazonaws.com/el/6/x86_64/chefdk-0.3.5-1.x86_64.rpm
 ```
+ 
   ```bash
   $ rpm -Uvh chefdk-0.3.5-1.x86_64.rpm
 ```
 * you can verify that ChefDK is installed by running
+
   ```bash
 $ chef verify
 ```
