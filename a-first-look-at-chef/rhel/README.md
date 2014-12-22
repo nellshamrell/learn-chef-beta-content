@@ -381,7 +381,7 @@ In practice, you would likely create a second cookbook to hold the recipes to pr
 Run this `chef generate` command.
 
 ```bash
-# ~/chef-repo
+# ~/chef-repo/cookbooks
 $ chef generate recipe web servers
 Compiling Cookbooks...
 Recipe: code_generator::recipe
