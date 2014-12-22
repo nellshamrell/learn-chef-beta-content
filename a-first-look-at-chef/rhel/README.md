@@ -17,9 +17,9 @@ You'll need a spare Red Hat Enterprise Linux or CentOS  machine to work from. We
 
 Because you'll run commands that change the state of your system, we recommend that you set up a temporary virtual machine or cloud instance. Ensure you have root or `sudo` access to that system.
 
-One way to set up a local virtual machine is to use Vagrant and Virtual Box.  You can download Vagrant and get setup instructions [here][https://www.vagrantup.com/], download Virtual Box [here][https://www.virtualbox.org/], and download a CentOS 6.5 image (along with other images) [here][https://atlas.hashicorp.com/boxes/search].
+One way to set up a local virtual machine is to use Vagrant and Virtual Box.  You can download Vagrant and get setup instructions [here](https://www.vagrantup.com/), download Virtual Box [here](https://www.virtualbox.org/), and download a CentOS 6.5 image (along with other images) [here](https://atlas.hashicorp.com/boxes/search).
 
-Please follow the [Vagrant Setup Instructions][https://docs.vagrantup.com/v2/getting-started/index.html] to get your virtual box up and running.
+Please follow the [Vagrant Setup Instructions](https://docs.vagrantup.com/v2/getting-started/index.html) to get your virtual box up and running.
 -- -
 **NOTE**
 
